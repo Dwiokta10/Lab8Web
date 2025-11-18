@@ -148,15 +148,5 @@ lab8_php_database/
 4. Push ke branch (`git push origin fitur-baru`)
 5. Buat Pull Request
 
-## Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
-## Kontak
-
-Dwi Okta Ramadhani  
-Email: [email@example.com]  
-GitHub: [username]
-
 ---
-© 2023 Dwi Okta Ramadhani - Lab 8 PHP Database
+© 2025 Dwi Okta Ramadhani - Lab 8 PHP Database
