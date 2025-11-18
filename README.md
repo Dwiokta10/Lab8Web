@@ -9,6 +9,8 @@
 
 Aplikasi manajemen barang berbasis web yang dibangun dengan PHP dan MySQL. Aplikasi ini memungkinkan pengguna untuk mengelola data barang seperti menambah, melihat, mengubah, dan menghapus data barang.
 
+<img width="1919" height="1107" alt="Cuplikan layar 2025-11-18 144902" src="https://github.com/user-attachments/assets/e97adea1-dece-46c6-9c77-e55c20223f9c" />
+
 ## Fitur
 
 - **Manajemen Data Barang**
